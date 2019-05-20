@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "1558178414801",
+      "name": "Eric",
+      "status": "Online"
+    },
+    {
+      "name": "Luffy",
+      "status": "Offline",
+      "id": "1558178414806"
+    }
+  ],
+  "posts": []
+}
